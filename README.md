@@ -1,5 +1,5 @@
-Currently working on some cool things
-They are cool, I swear
+Currently working on some cool things.
+They are cool, I swear!
 
 <!---
 GamerWarlord/GamerWarlord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
